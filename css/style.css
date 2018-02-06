@@ -1,0 +1,96 @@
+body {
+    font-family: 'Amaranth', sans-serif;
+}
+
+
+#hero{
+
+    height: 100%;
+    background: url(../images/images/c2.jpg) no-repeat;
+    background-size: auto;
+}
+
+#hero p {
+    font-size: 60px;
+    margin-top: 22%;
+    margin-bottom: 20%;
+    color: darkorange
+}
+
+#one h1{
+    font-size: 60px;
+    margin-top: 10%;
+}
+
+.para p{
+    font-size: 40px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+#two{
+    background-color: oldlace;
+}
+
+#serFont{
+    font-size: 60px;
+    margin-top: 10%;
+}
+
+.services h1{
+    
+    font-size: 30px;
+}
+
+.services p{
+
+    font-size: 20px;
+}
+
+.services{
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#perFont{
+    font-size: 60px;
+    margin-top: 10%;
+}
+
+.pricing h1{
+    
+    font-size: 30px;
+}
+
+.pricing p{
+
+    font-size: 20px;
+}
+
+.pricing{
+   
+    margin-top: 5%;
+    margin-bottom: 15%;
+}
+
+#conFont{
+    color: #fff;
+    font-size: 60px;
+    margin-top: 10%;
+}
+
+.marJumbo{
+    
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+#four{
+     height: 100%;
+    background: url(../images/map.jpeg) no-repeat;
+    background-size: auto;
+}
+
+
